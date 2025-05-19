@@ -2,7 +2,7 @@
 Machine learning project using clustering and classification to analyze and predict Titanic passenger survival.
 
 # Titanic Disaster Prediction Project 🚢  
-This project applies both unsupervised and supervised machine learning techniques to analyze and predict survival outcomes from the Titanic disaster. It was created using Python as part of a Machine Learning course (CS379).
+This project applies both unsupervised and supervised machine learning techniques to analyze and predict survival outcomes from the Titanic disaster. It was created using Python as part of a Machine Learning course at my university.
 
 ---
 
